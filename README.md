@@ -233,7 +233,7 @@ Es wird eine einzelne Titelseite erzeugt. Der Inhalt (Text) beginbt damit erstau
 </details>
 <details>
     <summary>What changes in your pdf, if you add <code>\section{Intro}</code> after <code>\maketitle</code></summary>
-Es wird eine Überschrift, also ein Kapitel, für den eingegebenen Text erzeugt. Nummeriert wird dieses scheinbar standardmäßig ab 0.1 .
+Es wird eine Überschrift, also ein Kapitel, für den eingegebenen Text erzeugt. Nummeriert wird dieses scheinbar standardmäßig ab "0.1".
 </details>
 
 
